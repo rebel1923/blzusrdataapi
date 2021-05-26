@@ -1,0 +1,21 @@
+{
+  "name": "userapi",
+  "version": "1.0.0",
+  "description": "user api data blazedock",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {"node": "14.16.1"},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "",
+  "license": "ISC"
+}
